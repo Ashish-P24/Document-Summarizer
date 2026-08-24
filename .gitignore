@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# nextjs
+.next/
+out/
+
+# environment files
+.env
+.env.local
+.env.*.local
+
+# logs
+*.log
+
+# misc
+.DS_Store
+
+# AI agent files
+AGENTS.md
+CLAUDE.md
